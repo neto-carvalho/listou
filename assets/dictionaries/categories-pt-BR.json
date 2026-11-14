@@ -1,0 +1,65 @@
+{
+  "alimentos": [
+    "arroz", "feijao", "feijão", "macarrao", "macarrão", "massa",
+    "farinha", "acucar", "açucar", "açúcar", "sal", "oleo", "óleo",
+    "azeite", "vinagre", "molho", "catchup", "ketchup", "mostarda",
+    "maionese", "leite", "iogurte", "queijo", "manteiga", "margarina",
+    "requeijao", "requeijão", "creme de leite", "pao", "pão",
+    "biscoito", "bolacha", "torrada", "bolo", "cereal", "aveia",
+    "granola", "carne", "frango", "peixe", "linguica", "linguiça",
+    "salsicha", "presunto", "mortadela", "ovo", "ovos",
+    "banana", "maca", "maçã", "laranja", "uva", "melancia",
+    "mamao", "mamão", "abacaxi", "manga", "morango", "limao", "limão",
+    "tomate", "cebola", "alho", "batata", "cenoura", "alface",
+    "repolho", "brocolis", "brócolis", "couve", "espinafre",
+    "pimentao", "pimentão", "pepino", "abobrinha", "berinjela"
+  ],
+  "bebidas": [
+    "agua", "água", "suco", "refrigerante", "coca", "pepsi", "guarana", "guaraná",
+    "cerveja", "vinho", "vodka", "whisky", "cachaca", "cachaça",
+    "energetico", "energético", "cha", "chá", "cafe", "café",
+    "achocolatado", "leite", "isotônico", "isotônico"
+  ],
+  "limpeza": [
+    "detergente", "desinfetante", "agua sanitaria", "água sanitária",
+    "sabao em po", "sabão em pó", "amaciante", "alvejante",
+    "limpa vidros", "multiuso", "desengordurante", "esponja",
+    "bucha", "pano de chao", "pano de chão", "rodo", "vassoura",
+    "saco de lixo", "saco lixo", "luvas", "pá de lixo"
+  ],
+  "higiene": [
+    "sabonete", "shampoo", "xampu", "condicionador", "creme de pentear",
+    "pasta de dente", "creme dental", "escova de dente",
+    "fio dental", "enxaguante bucal", "desodorante",
+    "papel higienico", "papel higiênico", "absorvente",
+    "lenco de papel", "lenço de papel", "cotonete", "algodao", "algodão",
+    "perfume", "colonia", "colônia", "hidratante", "protetor solar",
+    "repelente", "talco", "gilete", "aparelho de barbear",
+    "espuma de barbear", "creme de barbear", "pos barba", "pós barba"
+  ],
+  "utensilios": [
+    "prato", "copo", "talher", "garfo", "faca", "colher",
+    "panela", "frigideira", "assadeira", "forma", "tigela",
+    "pote", "vasilha", "garrafa", "copo descartavel", "copo descartável",
+    "prato descartavel", "prato descartável", "guardanapo",
+    "papel toalha", "papel aluminio", "papel alumínio", "plastico filme", "plástico filme",
+    "papel manteiga", "saco plastico", "saco plástico"
+  ],
+  "eletronicos": [
+    "celular", "smartphone", "fone", "fone de ouvido", "headphone",
+    "carregador", "cabo", "pilha", "bateria", "pendrive",
+    "mouse", "teclado", "monitor", "webcam", "microfone",
+    "caixa de som", "som", "televisao", "televisão", "tv",
+    "controle remoto", "playstation", "xbox", "nintendo", "videogame",
+    "notebook", "tablet", "smartwatch", "relogio inteligente", "relógio inteligente"
+  ],
+  "vestuario": [
+    "camisa", "camiseta", "blusa", "calca", "calça", "jeans",
+    "bermuda", "short", "saia", "vestido", "jaqueta", "casaco",
+    "moletom", "tenis", "tênis", "sapato", "sandalia", "sandália",
+    "chinelo", "bota", "meia", "cueca", "calcinha", "sutia", "sutiã",
+    "pijama", "roupa intima", "roupa íntima", "bone", "boné",
+    "chapeu", "chapéu", "cachecol", "luva", "cinto"
+  ],
+  "outros": []
+}
